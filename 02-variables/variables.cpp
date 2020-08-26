@@ -1,5 +1,9 @@
 #include <iostream>
 
+#define SIZE 100
+
+const int NUM = 20;
+
 /*
  * data_type                size    range
  * 

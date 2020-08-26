@@ -3,7 +3,11 @@
 #define true 1
 #define false 0
 
+// Constante
+const int NUM = 20;
+
 /*
+ * https://www.geeksforgeeks.org/c-data-types/
  * data_type                size    range
  * 
  * short int                2	    -32,768 to 32,767

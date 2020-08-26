@@ -1,5 +1,6 @@
 // Incluye la funcion printf y scanf
 #include <stdio.h>
+#include <stdlib.h>
 // Permite el uso de strings
 #include <string.h>
 

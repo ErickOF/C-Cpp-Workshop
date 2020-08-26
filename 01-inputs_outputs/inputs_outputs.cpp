@@ -16,7 +16,7 @@ void cpp_exaple() {
     
     // Mostrar la salida de una cadena + numero
     // Manera incorrecta. Quitar el comentario para ver lo que sucede
-    //std::cout << "Numero " + 23 << std::endl;
+    // std::cout << "Numero " + 23 << std::endl;
     // Forma correcta
     std::cout << "Numero " << 23 << std::endl << std::endl;
 
@@ -95,5 +95,5 @@ void cpp_exaple() {
 }
 
 int main() {
-    cpp_exaple();  
+    cpp_exaple();
 }
